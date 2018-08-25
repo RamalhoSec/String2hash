@@ -56,7 +56,7 @@ def start():
         print("    :                :sha384 :")
         print("    :                :sha512 :")
         print("    :")
-        print("    :-s choose the texto for gennerate hash")
+        print("    :-s choose the text for gennerate hash")
         print("    :-q Quiet mode")
 
 
@@ -95,7 +95,7 @@ except Exception:
     print("    :                :sha384 :")
     print("    :                :sha512 :")
     print("    :")
-    print("    :-s choose the texto for gennerate hash")
+    print("    :-s choose the text for gennerate hash")
     print("    :-q Quiet mode")
 else:
     start()
