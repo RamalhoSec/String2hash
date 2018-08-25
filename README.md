@@ -4,7 +4,7 @@ This app is help you hash strings with multiple crypto hashes
 
 ```
     :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-    :: Created and edited by RamalhoSec & Team | BRA | 20 JAN 2017     ::
+    :: Created and edited by RamalhoSec & Team | BRA | 25 AGO 2018     ::
     :: Version 0.1a | 25 AGO 2018 | SD RAMALHO (16/1  |01 CFC 17/1)    ::
     :: Bitcoin = 3DppKRbA9Um3z4wnmVtkqnETnvwsip7WkC :::::::::::::::::::::
     :::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
